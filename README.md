@@ -1,4 +1,4 @@
-##### :space_invader: This repo is from Practice Set 5-06
+##### : This repo is from Practice Set 5-06
 
 # logApp-scaling-octo
 
